@@ -1,0 +1,8 @@
+{
+  "name": "Gridline Studio",
+  "description": "React web front-end engineering studio, interactive UI workbench, and production design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
